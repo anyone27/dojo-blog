@@ -17,30 +17,6 @@
       "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt totam praesentium eum incidunt veniam cupiditate corrupti ea atque, explicabo quae ut, at voluptatem. Quasi voluptatem veniam in illum quas reiciendis?",
       "author": "mario",
       "id": 3
-    },
-    {
-      "title": "Title",
-      "body": "body",
-      "author": "yoshi",
-      "id": 4
-    },
-    {
-      "title": "testing pending",
-      "body": "testing pending",
-      "author": "mario",
-      "id": 5
-    },
-    {
-      "title": "now testing",
-      "body": "testing again",
-      "author": "mario",
-      "id": 6
-    },
-    {
-      "title": "testing",
-      "body": "new test",
-      "author": "mario",
-      "id": 7
     }
   ]
 }
